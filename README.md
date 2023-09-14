@@ -3,7 +3,7 @@
 # React Portfolio
 
 ## Live link
-https://github.com/Buraqsson/Portifolio
+https://hans-buraqsson.netlify.app/
 
 ## Getting Started
 
